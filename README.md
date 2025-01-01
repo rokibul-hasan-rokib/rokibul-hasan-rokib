@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokibul-hasan-rokib&label=Profile%20views&color=0e75b6&style=flat" alt="rokibul-hasan-rokib" /> </p>
 
 ### 🧑‍💻 About Me:
-I am a passionate and driven **Software Engineer** with a strong background in **full-stack development**, specializing in building scalable and secure web applications. With expertise in both **frontend** and **backend** technologies, I thrive on solving complex problems and delivering user-centric solutions.  
+I am a passionate and driven **Software Engineer** with a strong background in **Full-stack development**, specializing in building scalable and secure web applications. With expertise in both **frontend** and **backend** technologies, I thrive on solving complex problems and delivering user-centric solutions.  
 
 **Technologies & Tools Used**:
 - **Frontend**: React.js, Next.js, TailwindCSS, Bootstrap-5
