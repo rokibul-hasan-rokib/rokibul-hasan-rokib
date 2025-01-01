@@ -9,8 +9,8 @@
 I am a passionate and driven **Software Engineer** with a strong background in **full-stack development**, specializing in building scalable and secure web applications. With expertise in both **frontend** and **backend** technologies, I thrive on solving complex problems and delivering user-centric solutions.  
 
 **Technologies & Tools Used**:
-- **Frontend**: React.js, TailwindCSS, Next.js
-- **Backend**: Laravel, Node.js, Express
+- **Frontend**: React.js, Next.js, TailwindCSS, Bootstrap-5
+- **Backend**: Laravel, Node.js, Express, Django
 - **Database**: MySQL, MongoDB
 - **Authentication**: JWT, OAuth2
 - **Deployment**: Docker, Kubernetes
@@ -29,7 +29,8 @@ I am a passionate and driven **Software Engineer** with a strong background in *
 - Email: [rokibulhasan018722@gmail.com](mailto:rokibulhasan018722@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rokibul-hasan-rokib/)
 
-### ⚡ Fun fact: I’m not just a coder—I’m also a stand-up comedian (well, at least my code gets a laugh 😉).  
+### ⚡ Fun fact:
+- I’m not just a coder—I’m also a stand-up comedian (well, at least my code gets a laugh 😉).  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
