@@ -25,7 +25,7 @@ I am a passionate and driven **Software Engineer** with a strong background in *
 
 ### 📫 How to reach me:
 - Email: [rokibulhasan018722@gmail.com](mailto:rokibulhasan018722@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rokibul-hasan-rokib/)
+- LinkedIn: [rokibul-hasan-rokib](https://www.linkedin.com/in/rokibul-hasan-rokib/)
 
 ### ⚡ Fun fact:
 - I’m not just a coder—I’m also a stand-up comedian (well, at least my code gets a laugh 😉).  
