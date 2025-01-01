@@ -5,13 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokibul-hasan-rokib&label=Profile%20views&color=0e75b6&style=flat" alt="rokibul-hasan-rokib" /> </p>
 
-- 🔭 I’m currently working on [Hospital Management system](http://hms.evatechnology.info/)
+- 👨‍💻 A passionate full-stack developer with expertise in building scalable applications and a knack for solving complex problems.  
 
-- 💬 Ask me about **Java, Js, Php, Python, NodeJs, ReactJs, Laravel**
+- 🔭 I’m currently developing a robust and user-friendly [Multi-Vendor Ecommerce]() designed to streamline healthcare operations.  
 
-- 📫 How to reach me **rokibulhasan018722@gmail.com**
+- 💬 Ask me about **Java, JavaScript, PHP, Python, Node.js, React.js, or Laravel**—I love sharing insights and helping others grow!  
 
-- ⚡ Fun fact **I think I am Funny😉**
+- 📫 How to reach me: **rokibulhasan018722@gmail.com**  
+
+- ⚡ Fun fact: I’m not just a coder—I’m also a stand-up comedian (well, at least my code gets a laugh 😉).  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
