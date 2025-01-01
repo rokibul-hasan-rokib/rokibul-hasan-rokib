@@ -5,15 +5,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokibul-hasan-rokib&label=Profile%20views&color=0e75b6&style=flat" alt="rokibul-hasan-rokib" /> </p>
 
-- 👨‍💻 A passionate full-stack developer with expertise in building scalable applications and a knack for solving complex problems.  
+### 🧑‍💻 About Me:
+I am a passionate and driven **Software Engineer** with a strong background in **full-stack development**, specializing in building scalable and secure web applications. With expertise in both **frontend** and **backend** technologies, I thrive on solving complex problems and delivering user-centric solutions.  
 
-- 🔭 I’m currently developing a robust and user-friendly [Multi-Vendor Ecommerce]() designed to streamline healthcare operations.  
+**Technologies & Tools Used**:
+- **Frontend**: React.js, TailwindCSS, Next.js
+- **Backend**: Laravel, Node.js, Express
+- **Database**: MySQL, MongoDB
+- **Authentication**: JWT, OAuth2
+- **Deployment**: Docker, Kubernetes
+- **Cloud**: AWS, Firebase
 
-- 💬 Ask me about **Java, JavaScript, PHP, Python, Node.js, React.js, or Laravel**—I love sharing insights and helping others grow!  
+### 🌱 Learning:
+- Diving deeper into **GraphQL** for more efficient data querying.
+- Exploring **microservices architecture** for scalable and maintainable solutions.
+- Enhancing skills in **DevOps** and **CI/CD** pipelines.
 
-- 📫 How to reach me: **rokibulhasan018722@gmail.com**  
+### 💬 Ask me about:
+- **Java, JavaScript, PHP, Python, Node.js, React.js, Laravel, Django**
+- **Building scalable and secure web applications**
 
-- ⚡ Fun fact: I’m not just a coder—I’m also a stand-up comedian (well, at least my code gets a laugh 😉).  
+### 📫 How to reach me:
+- Email: [rokibulhasan018722@gmail.com](mailto:rokibulhasan018722@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rokibul-hasan-rokib/)
+
+### ⚡ Fun fact: I’m not just a coder—I’m also a stand-up comedian (well, at least my code gets a laugh 😉).  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
