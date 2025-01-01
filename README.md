@@ -12,14 +12,12 @@ I am a passionate and driven **Software Engineer** with a strong background in *
 - **Frontend**: React.js, Next.js, TailwindCSS, Bootstrap-5
 - **Backend**: Laravel, Node.js, Express, Django
 - **Database**: MySQL, MongoDB
-- **Authentication**: JWT, OAuth2
-- **Deployment**: Docker, Kubernetes
-- **Cloud**: AWS, Firebase
 
 ### 🌱 Learning:
-- Diving deeper into **GraphQL** for more efficient data querying.
-- Exploring **microservices architecture** for scalable and maintainable solutions.
-- Enhancing skills in **DevOps** and **CI/CD** pipelines.
+- Deepening knowledge in Node.js for building scalable and high-performance server-side applications.
+- Mastering Laravel and Django for creating secure, robust, and efficient web applications with advanced backend solutions.
+- Advancing expertise in React.js and Next.js for building dynamic, SEO-friendly web applications with server-side rendering.
+- Exploring GraphQL for optimized and flexible data fetching, reducing over-fetching and enhancing API performance.
 
 ### 💬 Ask me about:
 - **Java, JavaScript, PHP, Python, Node.js, React.js, Laravel, Django**
