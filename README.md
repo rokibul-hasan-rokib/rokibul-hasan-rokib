@@ -9,7 +9,7 @@
 I am a passionate and driven **Software Engineer** with a strong background in **Full-stack development**, specializing in building scalable and secure web applications. With expertise in both **frontend** and **backend** technologies, I thrive on solving complex problems and delivering user-centric solutions.  
 
 **Technologies & Tools Used**:
-- **Frontend**: React.js, Next.js, TailwindCSS, Bootstrap-5
+- **Frontend**: React.js, Next.js, Vue.js, TailwindCSS, Bootstrap-5
 - **Backend**: Laravel, Node.js, Express, Django
 - **Database**: MySQL, MongoDB
 
