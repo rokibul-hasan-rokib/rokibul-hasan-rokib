@@ -56,6 +56,22 @@ I am a passionate and driven **Software Engineer** with a strong background in *
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> 
   </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibul-hasan-rokib&show_icons=true&locale=en&layout=compact" alt="rokibul-hasan-rokib" /></p>
+<p><img align="left"
+      style="width: 400px; height: 200px; margin: 30px"
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibul-hasan-rokib&show_icons=true&locale=en&layout=compact" 
+     alt="rokibul-hasan-rokib" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rokibul-hasan-rokib&show_icons=true&locale=en" alt="rokibul-hasan-rokib" /></p>
+<p>&nbsp;<img align="center"
+           style="width: 400px; margin: 30px"
+           src="https://github-readme-stats.vercel.app/api?username=rokibul-hasan-rokib&show_icons=true&locale=en" 
+           alt="rokibul-hasan-rokib" />
+</p>
+<p>
+  <img
+    style="width: 400px; margin: 30px"
+    align="rifht"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rokibul-hasan-rokib&"
+    alt="rokibul-hasan-rokib"
+  />
+</p>
