@@ -61,11 +61,8 @@ I am a passionate and driven **Software Engineer** with a strong background in *
      src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibul-hasan-rokib&show_icons=true&locale=en&layout=compact" 
      alt="rokibul-hasan-rokib" />
 </p>
-<p>
-  <img
-    style="width: 400px; margin: 30px"
-    align="rifht"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rokibul-hasan-rokib&show_icons=true&locale=en&layout=compact"
-    alt="rokibul-hasan-rokib"
-  />
+<p>&nbsp;<img align="center"
+           style="width: 400px; margin: 30px"
+           src="https://github-readme-stats.vercel.app/api?username=rokibul-hasan-rokib&show_icons=true&locale=en" 
+           alt="rokibul-hasan-rokib" />
 </p>
