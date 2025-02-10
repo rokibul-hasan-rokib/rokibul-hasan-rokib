@@ -65,7 +65,7 @@ I am a passionate and driven **Software Engineer** with a strong background in *
   <img
     style="width: 400px; margin: 30px"
     align="rifht"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rokibul-hasan-rokib&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rokibul-hasan-rokib&show_icons=true&locale=en&layout=compact"
     alt="rokibul-hasan-rokib"
   />
 </p>
