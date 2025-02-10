@@ -64,7 +64,7 @@ I am a passionate and driven **Software Engineer** with a strong background in *
 
 <p>&nbsp;<img align="center"
            style="width: 400px; margin: 30px"
-           src="https://github-readme-stats.vercel.app/api?username=rokibul-hasan-rokib&show_icons=true&locale=en" 
+           src="https://github-readme-stats.vercel.app/api?username=rokibul-hasan-rokib&show" 
            alt="rokibul-hasan-rokib" />
 </p>
 <p>
