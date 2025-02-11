@@ -56,13 +56,29 @@ I am a passionate and driven **Software Engineer** with a strong background in *
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> 
   </a> </p>
 
-<p><img align="left"
-      style="width: 400px; height: 200px; margin: 30px"
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibul-hasan-rokib&show_icons=true&locale=en&layout=compact" 
-     alt="rokibul-hasan-rokib" />
-</p>
-<p>&nbsp;<img align="center"
-           style="width: 400px; margin: 30px"
-           src="https://github-readme-stats.vercel.app/api?username=rokibul-hasan-rokib&show_icons=true&locale=en" 
-           alt="rokibul-hasan-rokib" />
-</p>
+<h2 align="center">🚀 GitHub Profile Overview</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=rokibul-hasan-rokib&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center">
+      <h3>🔥 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibul-hasan-rokib&layout=compact&theme=radical" alt="Most Used Languages" width="100%" />
+    </td>
+    <td align="center">
+      <h3>💡 GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibul-hasan-rokib&theme=radical" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <h3>🏅 GitHub Achievements</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=rokibul-hasan-rokib&theme=radical" alt="GitHub Trophies" width="90%" />
+    </td>
+  </tr>
+</table>
+
+
