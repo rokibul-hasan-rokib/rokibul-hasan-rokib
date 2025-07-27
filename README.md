@@ -14,7 +14,7 @@ I am a passionate and driven **Software Engineer** with a strong background in *
 **Technologies & Tools Used**:
 - **Frontend**: React.js, Next.js, Vue.js, TailwindCSS, Bootstrap-5
 - **Backend**: Laravel, Node.js, Express, Django
-- **Database**: MySQL, MongoDB
+- **Database**: MySQL, PostgreSQL, MongoDB
 
 ### 🌱 Learning:
 - Deepening knowledge in Node.js for building scalable and high-performance server-side applications.
