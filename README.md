@@ -55,7 +55,11 @@ I am a passionate and driven **Software Engineer** with a strong background in *
 </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> 
-  </a> </p>
+  </a>
+<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+  </a>
+</p>
 
 <h2 align="center">🚀 GitHub Profile Overview</h2>
 
