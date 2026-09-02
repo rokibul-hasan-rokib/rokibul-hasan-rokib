@@ -1,92 +1,251 @@
 <h1 align="center">Hi 👋, I'm Rokibul Hasan Rokib</h1>
-<h3 align="center">A Passionate Software Engineer from Bangladesh</h3>
 
+<h3 align="center">
+🚀 Software Engineer | Full-Stack Developer | Product Builder | Future Unicorn Engineer
+</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rokibul-hasan-rokib&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/rokibul-hasan-rokib">
+    <img src="https://img.shields.io/github/followers/rokibul-hasan-rokib?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/rokibul-hasan-rokib">
+    <img src="https://img.shields.io/github/stars/rokibul-hasan-rokib?label=Stars&style=for-the-badge" />
+  </a>
+</p>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-<img align="right" alt="codeing" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+### 🧑‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rokibul-hasan-rokib&label=Profile%20views&color=0e75b6&style=flat" alt="rokibul-hasan-rokib" /> </p>
+I'm a passionate **Software Engineer and Full-Stack Developer from Bangladesh** who loves turning ideas into scalable, secure, and production-ready software.
 
-### 🧑‍💻 About Me:
-I am a passionate and driven **Software Engineer** with a strong background in **Full-stack development**, specializing in building scalable and secure web applications. With expertise in both **frontend** and **backend** technologies, I thrive on solving complex problems and delivering user-centric solutions.  
+I work across the full software development lifecycle — from **database architecture and backend APIs to modern frontend applications, deployment, optimization, and business-focused product development.**
 
-**Technologies & Tools Used**:
-- **Frontend**: React.js, Next.js, Vue.js, TailwindCSS, Bootstrap-5
-- **Backend**: Laravel, Node.js, Express, Django
-- **Database**: MySQL, PostgreSQL, MongoDB
+I'm continuously expanding my engineering skills with one long-term goal:
 
-### 🌱 Learning:
-- Deepening knowledge in Node.js for building scalable and high-performance server-side applications.
-- Mastering Laravel and Django for creating secure, robust, and efficient web applications with advanced backend solutions.
-- Advancing expertise in React.js and Next.js for building dynamic, SEO-friendly web applications with server-side rendering.
-- Exploring GraphQL for optimized and flexible data fetching, reducing over-fetching and enhancing API performance.
+> **🚀 Become a Unicorn Engineer — someone who can understand, build, scale, and lead complete technology products.**
 
-### 💬 Ask me about:
-- **Java, JavaScript, PHP, Python, Node.js, React.js, Laravel, Django**
-- **Building scalable and secure web applications**
+I believe a great engineer is not someone who knows everything, but someone who can **learn anything, solve difficult problems, and build things that create real-world value.**
 
-### 📫 How to reach me:
-- Email: [rokibulhasan018722@gmail.com](mailto:rokibulhasan018722@gmail.com)
-- LinkedIn: [rokibul-hasan-rokib](https://www.linkedin.com/in/rokibul-hasan-rokib/)
+### 🚀 What I Do
 
-### ⚡ Fun fact:
-- I’m not just a coder—I’m also a stand-up comedian (well, at least my code gets a laugh 😉).  
+* 💻 Full-Stack Web Application Development
+* ⚡ RESTful API Development
+* 🏗️ Scalable Backend Architecture
+* 🎨 Modern Frontend Development
+* 🔐 Authentication & Role-Based Access Control
+* 🗄️ Database Design & Optimization
+* ☁️ Server & VPS Deployment
+* 🐳 Docker & Containerized Applications
+* 🔄 CI/CD & DevOps Practices
+* 📊 Business Management Systems
+* 🏥 Hospital & Healthcare Management Systems
+* 🛒 E-commerce & Inventory Systems
+* 🚚 Courier & Delivery Management Systems
+* 🤖 Exploring AI-powered applications
+* 📈 SEO & Digital Product Development
 
-<h3 align="left">Connect with me: </h3>
+### 🧠 My Core Engineering Stack
+
+#### Frontend
+
+* React.js
+* Next.js
+* Vue.js
+* Inertia.js
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* Redux
+
+#### Backend
+
+* Laravel
+* PHP
+* Node.js
+* Express.js
+* NestJS
+* Django
+* Python
+* REST APIs
+
+#### Databases
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* Oracle
+
+#### DevOps & Infrastructure
+
+* Linux
+* Git & GitHub
+* Docker
+* Docker Compose
+* VPS Deployment
+* Apache
+* Nginx
+* CI/CD
+* Server Management
+* Application Monitoring
+
+#### Tools & Other Technologies
+
+* Vite
+* Firebase
+* GraphQL
+* Electron
+* Spatie Laravel Packages
+* Mongoose
+* Axios
+* Postman
+* Adobe Photoshop
+* Adobe Illustrator
+
+### 🌱 Currently Learning & Improving
+
+I'm constantly upgrading my engineering skills.
+
+* 🔥 Advanced Laravel Architecture
+* ⚡ Advanced Node.js & Backend Engineering
+* 🚀 React.js & Next.js
+* 🏗️ System Design & Scalable Architecture
+* 🐳 Docker & Containerization
+* ☁️ DevOps & Cloud Infrastructure
+* 🔄 CI/CD Pipelines
+* 🐧 Linux & Server Administration
+* 🗄️ Database Optimization
+* 🧠 Data Structures & Algorithms
+* 🐍 Python
+* 🔌 GraphQL
+* 🤖 AI & AI-powered Software Products
+
+### 🏗️ Things I've Built / Worked With
+
+My development experience includes building and working on:
+
+* 🏥 Hospital Management Systems
+* 💊 Pharmacy Management Systems
+* 🛒 E-commerce Platforms
+* 📦 Courier & Delivery Management Systems
+* 💰 Multi-Billing Systems
+* 📋 Task Management Systems
+* 🏠 Property Management Systems
+* 📊 Business Management Applications
+* 🔐 Role & Permission Based Systems
+* 📱 REST API-based Applications
+* 🌐 SEO-friendly Web Applications
+* 🖥️ Desktop Applications with Electron
+
+### 💡 Engineering Philosophy
+
+```text
+Learn → Build → Break → Debug → Improve → Scale → Repeat
+```
+
+I don't want to be limited to a single framework.
+
+I want to understand **how software actually works** — from the browser to the API, from the API to the database, from the database to the server, and from the server to a scalable production system.
+
+### 🎯 2026 → Beyond
+
+My roadmap is focused on becoming a stronger engineer in:
+
+```text
+Data Structures & Algorithms
+        ↓
+Advanced Backend Engineering
+        ↓
+System Design
+        ↓
+DevOps & Cloud
+        ↓
+Distributed Systems
+        ↓
+AI Engineering
+        ↓
+Scalable Product Architecture
+        ↓
+🚀 Unicorn Engineer
+```
+
+### 💬 Ask Me About
+
+* JavaScript
+* PHP
+* Python
+* Java
+* Laravel
+* Node.js
+* Express.js
+* NestJS
+* React.js
+* Next.js
+* Vue.js
+* Django
+* MySQL
+* MongoDB
+* REST APIs
+* Docker
+* Linux
+* Git & GitHub
+* Full-Stack Development
+* Web Application Architecture
+
+### 🤝 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/rokibul-hasan-rokib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rokibul-hasan-rokib/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010054350850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010054350850" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@rokibulhasan0181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@rokibulhasan0181" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
-</a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-</a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> 
+  <a href="https://www.linkedin.com/in/rokibul-hasan-rokib/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+
+  <a href="https://www.facebook.com/profile.php?id=100010054350850" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+
+  <a href="https://leetcode.com/@rokibulhasan0181" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+
+  <a href="mailto:rokibulhasan018722@gmail.com">
+    📧 Email
   </a>
 </p>
 
-<h2 align="center">🚀 GitHub Profile Overview</h2>
+### 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=rokibul-hasan-rokib&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
-    </td>
-    <td align="center">
-      <h3>🔥 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibul-hasan-rokib&layout=compact&theme=radical" alt="Most Used Languages" width="100%" />
-    </td>
-    <td align="center">
-      <h3>💡 GitHub Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibul-hasan-rokib&theme=radical" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <h3>🏅 GitHub Achievements</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=rokibul-hasan-rokib&theme=radical" alt="GitHub Trophies" width="90%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rokibul-hasan-rokib&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibul-hasan-rokib&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokibul-hasan-rokib&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rokibul-hasan-rokib&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophy" />
+</p>
+
+### ⚡ Fun Fact
+
+> I'm not trying to become the engineer who knows every technology.
+>
+> **I'm trying to become the engineer who can learn, understand, build, solve, and scale almost anything. 🚀**
+
+<p align="center">
+  <b>💻 Code. 🧠 Learn. 🏗️ Build. 📈 Scale. 🚀 Repeat.</b>
+</p>
+
+<h3 align="center">In Sha Allah, One Day I'll Become a Unicorn Engineer 🦄🚀</h3>
